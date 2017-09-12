@@ -1,0 +1,13 @@
+package cz.jiiripinkas.jba.java_blog_aggregator;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
